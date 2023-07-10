@@ -1,0 +1,7 @@
+C:\Users\kzez1986\Source\Repos\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.csprojAssemblyReference.cache
+C:\Users\kzez1986\Source\Repos\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Source\Repos\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.exe.config
+C:\Users\kzez1986\Source\Repos\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.exe
+C:\Users\kzez1986\Source\Repos\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.pdb
+C:\Users\kzez1986\Source\Repos\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.exe
+C:\Users\kzez1986\Source\Repos\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.pdb
